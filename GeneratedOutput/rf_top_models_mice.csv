@@ -1,0 +1,6 @@
+n_estimators,max_depth,min_samples_split,max_features,min_samples_leaf,accuracy,f1_score,roc_auc,cv_accuracy,training_time
+50,,2,sqrt,1,1.0,1.0,1.0,1.0,0.57076096534729
+50,,2,sqrt,2,1.0,1.0,1.0,1.0,0.4143378734588623
+50,,2,log2,1,1.0,1.0,1.0,1.0,0.5397932529449463
+50,,2,log2,2,1.0,1.0,1.0,0.9988425925925926,0.5999979972839355
+50,,5,sqrt,1,1.0,1.0,1.0,1.0,0.5162398815155029
